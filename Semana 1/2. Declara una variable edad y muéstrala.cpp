@@ -3,11 +3,9 @@
 #include <string>
 using namespace std;
 int main () {
-    int edad;
-
-    cout << "¿Cual es su edad?" << endl;
-    cin >> edad;
+    int edad = 17;
 
     cout << "Mi edad es: " << edad << endl;
+
     return 0;
 }

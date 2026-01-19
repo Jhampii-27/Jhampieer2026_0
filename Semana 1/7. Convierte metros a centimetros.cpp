@@ -7,7 +7,9 @@ int main () {
     cout << "Ingrese la distancia en metros: " << endl;
     cin >> metros;
 
-    centimetros = metros * 1000;
+    centimetros = metros * 100;
 
-    cout << "la distancia en centimetros es: " << centimetros << endl;
+    cout << "La distancia en centimetros de " << metros << " metros es " << centimetros << " centimetros: " << endl;
+    
+    return 0;
 }
