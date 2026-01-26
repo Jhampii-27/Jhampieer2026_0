@@ -18,5 +18,7 @@ int main (){
 
     area = radio * semiperimetro;
     printf ("El area es: %d \n", area);
+
+    return 0;
     
 }

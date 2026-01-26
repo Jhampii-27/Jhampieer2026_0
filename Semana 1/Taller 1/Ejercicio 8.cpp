@@ -18,4 +18,6 @@ int main () {
 
     area = sqrt(semiperimetro * (semiperimetro - lado1) * (semiperimetro - lado2) * (semiperimetro - lado3));
     printf ("El area es: %lf \n", area);
+
+    return 0;
 }

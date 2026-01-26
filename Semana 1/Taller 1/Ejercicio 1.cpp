@@ -18,5 +18,7 @@ int main () {
 
     diagonal = lado * sqrt(2);
     printf ("La diagonal es: %f \n", diagonal);
+
+    return 0;
     
 }

@@ -26,5 +26,7 @@ int main () {
 
     perimetro = lado1 + base + lado2;
     printf ("El perimetro del triangulo es: %d \n", perimetro);
+
+    return 0;
 }
 

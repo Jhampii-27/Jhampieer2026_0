@@ -22,4 +22,6 @@ int main () {
 
     area = (lado1 * lado2 * lado3) / (radio * 4);
     printf ("El area del triangulo inscrito es: %d \n", area);
+    
+    return 0;
 }

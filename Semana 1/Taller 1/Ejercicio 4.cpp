@@ -19,5 +19,7 @@ int main () {
     area = ((bmayor + bmenor) * altura) / 2;
 
     printf ("El area del trapecio es: %d \n", area);
+    
+    return 0;
 
 }
