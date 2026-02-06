@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/Jean Pierre/OneDrive - Universidad Nacional Agraria de la Selva/Universidad - Ciclo de nivelación/Talleres/5. Taller Strucs/codigo",
+      "program": "c:/Users/Jean Pierre/OneDrive - Universidad Nacional Agraria de la Selva/Universidad - Ciclo de nivelación/Talleres/5. Taller Strucs/codigo/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
