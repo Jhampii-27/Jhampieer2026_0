@@ -1,0 +1,12 @@
+Estimado profesor Villegas:
+
+El presente trabajo ha sido adjuntado en formato .zip, debido a que Microsoft Teams 
+no permite cargar más de 10 archivos en una sola entrega. Por tal motivo, todos los 
+archivos del proyecto han sido comprimidos en un único archivo con la finalidad de 
+mantener el orden y garantizar que el contenido se encuentre completo.
+
+Para la correcta ejecución del programa, se recomienda dirigirse a la carpeta 
+denominada “main” dentro del proyecto. Una vez ubicada en dicha carpeta, abrir 
+la consola presionando las teclas Ctrl + Ñ y, posteriormente, 
+escribir el comando .\sistema.exe y presionar Enter. De esta manera, 
+el programa se ejecutará correctamente.
